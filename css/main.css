@@ -1,0 +1,40 @@
+
+
+h2{
+margin-left: 60%;
+position: absolute;
+top: 200px;
+left: 0;
+width: 100%;
+background-color: #FFC02E;
+color:#FFF;
+padding: 5%;
+}
+
+.row{
+  background-color: #FFC02E;
+}
+
+.textoCel, .textoConduce{
+  color: #FFF;
+  font-size: 20px;
+}
+
+.imagenCel, .textoCel{
+  padding: 50px;
+  border-color: #FFF;
+}
+
+.conduce{
+  width: 320%;
+  height: 300%;
+  margin-left: 0%;
+}
+
+.textoConduce{
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.7);
+  padding-top: 5%;
+  padding-left: 3%;
+  padding-bottom: 46%;
+}
